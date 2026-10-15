@@ -3,7 +3,7 @@
 
 <br>
 
-# Screnshot
+# Screenshot
 <p align="center"><img align="center" src="images/image1.png"></p>
 <p align="center"><img align="center" src="images/image2.png"></p>
 <p align="center"><img align="center" src="images/image3.png"></p>
