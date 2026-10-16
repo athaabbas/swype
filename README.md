@@ -13,11 +13,6 @@ Swype adalah website untuk ditujukkan seorang SMA yang sulit menentukan jurusan,
 - Rekomendasi Karir
 - Grafik minat
 
-# Screenshot
-<p align="center"><img align="center" src="images/image1.png"></p>
-<p align="center"><img align="center" src="images/image2.png"></p>
-<p align="center"><img align="center" src="images/image3.png"></p>
-
 # Mau coba?
 
 Website ini dapat diakses melalui https://swype-sigma.vercel.app secara gratis.
@@ -31,3 +26,8 @@ git clone https://github.com/athaabbas/swype.git
 ```
 
 jalankan ini dengan Live Server dan akses `http://localhost`
+
+# Screenshot
+<p align="center"><img align="center" src="images/image1.png"></p>
+<p align="center"><img align="center" src="images/image2.png"></p>
+<p align="center"><img align="center" src="images/image3.png"></p>
