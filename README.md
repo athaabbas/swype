@@ -3,11 +3,6 @@
 
 <br>
 
-# Screenshot
-<p align="center"><img align="center" src="images/image1.png"></p>
-<p align="center"><img align="center" src="images/image2.png"></p>
-<p align="center"><img align="center" src="images/image3.png"></p>
-
 # 🤔  Apa itu Swype?
 
 Swype adalah website untuk ditujukkan seorang SMA yang sulit menentukan jurusan, memilih jalur pendidikan, dan merencanakan karir sesuai minat. Swype hadir sebagai membantu dalam hal tersebut dengan cara memberikan beberapa pertanyaan dan variatif untuk menentukan seorang SMA akan mencari jurusan, pendidikan dan karir.
@@ -16,7 +11,12 @@ Swype adalah website untuk ditujukkan seorang SMA yang sulit menentukan jurusan,
 - Swiper card interaktif
 - Probabilitas dari jurusan yang terpilih
 - Rekomendasi Karir
-- Grafik minat 
+- Grafik minat
+
+# Screenshot
+<p align="center"><img align="center" src="images/image1.png"></p>
+<p align="center"><img align="center" src="images/image2.png"></p>
+<p align="center"><img align="center" src="images/image3.png"></p>
 
 # Mau coba?
 
