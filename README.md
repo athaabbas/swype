@@ -1,8 +1,6 @@
 <p align="center"><img align="center" src="images/logo.png"></p>
 
 
-<br>
-
 # 🤔  Apa itu Swype?
 
 Swype adalah website untuk ditujukkan seorang SMA yang sulit menentukan jurusan, memilih jalur pendidikan, dan merencanakan karir sesuai minat. Swype hadir sebagai membantu dalam hal tersebut dengan cara memberikan beberapa pertanyaan dan variatif untuk menentukan seorang SMA akan mencari jurusan, pendidikan dan karir.
